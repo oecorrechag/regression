@@ -1,5 +1,5 @@
-# Curso de Regresion
+# Regression Course
 
 By: Oscar
 
-Ejercicios y algunas actividades de clase pasadas a Python
+Exercises and some class activities transferred to Python
